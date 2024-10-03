@@ -20,6 +20,7 @@
 ## Editor
 <p>
   <img src="https://img.shields.io/badge/-VSCode-007ACC.svg?logo=visual-studio-code&style=flat" />
+  <img src="https://img.shields.io/badge/-Emacs-7F5AB6.svg?logo=gnu-emacs&style=flat" />
 </p>
 
 ## Languages

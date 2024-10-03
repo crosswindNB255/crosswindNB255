@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&style=flat" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat" />
     <img src="https://img.shields.io/badge/-SQL-4479A1.svg?logo=postgresql&style=flat" />
+    <img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat" />
 </p>
 
 ## Stats

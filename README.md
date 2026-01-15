@@ -1,4 +1,4 @@
-# Hi Everybody!!   I'm crosswindNB255 
+# Hi, I'm crosswindNB255 
 
 <p align="left">
     <a href="https://github.com/crosswindNB255">
